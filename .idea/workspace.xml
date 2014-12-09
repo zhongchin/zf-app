@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ae317e-6df3-46d7-b82f-1f11b7cc68b4" name="默认的" comment="" />
+    <ignored path="zf-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>E:\zendframework\zf-app\composer.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="zf-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Module.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/Contact/Module.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="9" selection-start="616" selection-end="616" vertical-scroll-proportion="-0.093587525" vertical-offset="729" max-vertical-offset="1755">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/module/Restful/src/Restful/Controller/PeopleController.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Connection/Connector.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Db/Connection/Connector.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Db/Mapper/MapperInterface.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Db/DTO/Cards.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Db/Mapper/Cards.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Controller/CardsController.php" />
+        <option value="$PROJECT_DIR$/module/DAO/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/DAO/src/DAO/Db/Mapper/MapperAbstract.php" />
+        <option value="$PROJECT_DIR$/module/DAO/Module.php" />
+        <option value="$PROJECT_DIR$/module/Application/autoload_classmap.php" />
+        <option value="$PROJECT_DIR$/module/Restful/Module.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/ModuleManager/Listener/ConfigListener.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/ModuleManager/Listener/InitTrigger.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/ModuleManager/Listener/ServiceListener.php" />
+        <option value="$PROJECT_DIR$/module/Restful/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/Restful/src/Restful/View/Helper/Comments.php" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Controller/CommentsController.php" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Model/SampleModel.php" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Model/Hydrator/Strategy/SampleHydratorStrategy.php" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Model/SampleModelHydrator.php" />
+        <option value="$PROJECT_DIR$/module/Application/view/application/index/view.phtml" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Service/Example.php" />
+        <option value="$PROJECT_DIR$/module/Application/config/module.config.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/Mvc/Application.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/Mvc/RouteListener.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/src/Authentication/Controller/LoginController.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/view/authentication/index/login.phtml" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/DbTable.php" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
+        <option value="$PROJECT_DIR$/module/Authentication/src/Authentication/Adapter/Certificate.php" />
+        <option value="$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/SessionManager.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/src/Authentication/Service/Authentication.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/src/Authentication/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/module/Authentication/Module.php" />
+        <option value="$PROJECT_DIR$/module/SampleModule/config/module.config.php" />
+        <option value="$PROJECT_DIR$/module/SampleModule/src/SampleModule/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/config/application.config.php" />
+        <option value="$PROJECT_DIR$/module/SampleModule/Module.php" />
+        <option value="$PROJECT_DIR$/module/Application/src/Application/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/config/autoload/global.php" />
+        <option value="$PROJECT_DIR$/module/Application/Test/phpunit.xml.dist" />
+        <option value="$PROJECT_DIR$/module/Application/Test/TestConfig.php" />
+        <option value="$PROJECT_DIR$/module/Application/Test/Bootstrap.php" />
+        <option value="$PROJECT_DIR$/module/Application/Test/Controller/IndexControllerTest.php" />
+        <option value="$PROJECT_DIR$/module/Application/ApplicationTest/Controller/IndexControllerTest.php" />
+        <option value="$PROJECT_DIR$/module/Application/ApplicationTest/phpunit.xml.dist" />
+        <option value="$PROJECT_DIR$/module/Application/ApplicationTest/Bootstrap.php" />
+        <option value="$PROJECT_DIR$/module/Contact/Module.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="" />
+      <path value="$PROJECT_DIR$/vendor/SpeckPaypal/config" />
+      <path value="$PROJECT_DIR$/vendor/ZendSearch/.git" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/bin" />
+      <path value="$PROJECT_DIR$/vendor/ZendSearch/library" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/tests" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/src" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/docs" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/view" />
+      <path value="$PROJECT_DIR$/vendor/ZendGData/.git" />
+      <path value="$PROJECT_DIR$/vendor/ZFTool/config" />
+      <path value="$PROJECT_DIR$/vendor/ZendGData/tests" />
+      <path value="$PROJECT_DIR$/vendor/ZendGData/library" />
+      <path value="$PROJECT_DIR$/vendor/SpeckPaypal/test" />
+      <path value="$PROJECT_DIR$/vendor/SpeckPaypal/src" />
+      <path value="$PROJECT_DIR$/vendor/ZF2/library" />
+      <path value="$PROJECT_DIR$/vendor/ZendSearch/tests" />
+      <path value="$PROJECT_DIR$/vendor/SpeckPaypal/.git" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="64" />
+    <option name="width" value="1413" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="terminal" />
+    <property name="options.splitter.main.proportions" value="0.28416666" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\zendframework\zf-app\module\Application\src\Application\Controller" />
+      <recent name="E:\zendframework\zf-app\public" />
+      <recent name="E:\zendframework\zf-app\module\DAO\src\DAO" />
+      <recent name="E:\zendframework\zf-app\module\DAO" />
+      <recent name="E:\zendframework\zf-app\module\Restful\src\Restful" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Restful">
+    <configuration default="false" name="Restful" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/module/Restful/src/Restful" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.Restful" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.Restful" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ae317e-6df3-46d7-b82f-1f11b7cc68b4" name="默认的" comment="" />
+      <created>1417673302456</created>
+      <updated>1417673302456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="64" width="1413" height="988" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21474588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32979977" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Application/Module.php</url>
+          <line>21</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/SampleModule/src/SampleModule/View/Helper/FormVideo.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/ZF2/library/Zend/ServiceManager/ServiceManager.php</url>
+          <line>1040</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/DAO/src/DAO/Db/Mapper/Cards.php</url>
+          <line>98</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Application/src/Application/Controller/IndexController.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Authentication/src/Authentication/Service/Authentication.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/SessionManager.php</url>
+          <line>339</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/module/Authentication/config/module.config.php</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="zf-app" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="zf-app" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module/Application/src/Application/Controller/some/file/with/credentials.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/Http/FileResolver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="28" selection-start="2843" selection-end="2843" vertical-scroll-proportion="0.3442623" vertical-offset="3120" max-vertical-offset="4758">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/src/Application/Controller/some/other/with/credentials.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/view/authentication/index/login.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="270" selection-end="270" vertical-scroll-proportion="0.2046285" vertical-offset="0" max-vertical-offset="821" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/ZendDeveloperTools/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8658" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="42" selection-start="3295" selection-end="3297" vertical-scroll-proportion="2.0272276" vertical-offset="1404" max-vertical-offset="5577">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="11" selection-start="1773" selection-end="1773" vertical-scroll-proportion="-0.61510354" vertical-offset="1870" max-vertical-offset="3276">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="57" selection-start="873" selection-end="873" vertical-scroll-proportion="0.4774665" vertical-offset="817" max-vertical-offset="1638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/Service/ViewXmlRendererFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/Service/ViewXmlStrategyFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/View/Helper/Comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="81" selection-start="401" selection-end="405" vertical-scroll-proportion="0.4774665" vertical-offset="76" max-vertical-offset="897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/View/Model/XmlModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/View/Renderer/XmlRender.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Restful/src/Restful/View/Strategy/XmlStrategy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/DAO/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="6" selection-start="568" selection-end="568" vertical-scroll-proportion="0.5736906" vertical-offset="104" max-vertical-offset="925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/AbstractAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="65" selection-start="1672" selection-end="1681" vertical-scroll-proportion="0.47503045" vertical-offset="2223" max-vertical-offset="4758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/AuthenticationService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="107" selection-start="859" selection-end="867" vertical-scroll-proportion="-5.516089" vertical-offset="5510" max-vertical-offset="6318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Validator/Authentication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="27" selection-start="645" selection-end="645" vertical-scroll-proportion="0.38002437" vertical-offset="0" max-vertical-offset="9633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/DbTable/AbstractAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="25" selection-start="2103" selection-end="2120" vertical-scroll-proportion="0.48267326" vertical-offset="2574" max-vertical-offset="14508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/DbTable/CredentialTreatmentAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="28" selection-start="1280" selection-end="1300" vertical-scroll-proportion="0.76004875" vertical-offset="702" max-vertical-offset="4836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="24" selection-start="106" selection-end="106" vertical-scroll-proportion="0.08083141" vertical-offset="0" max-vertical-offset="866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/src/Authentication/Adapter/Certificate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="89" selection-start="3349" selection-end="3349" vertical-scroll-proportion="0.95371497" vertical-offset="2088" max-vertical-offset="5858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Adapter/DbTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="379" selection-end="379" vertical-scroll-proportion="0.3866171" vertical-offset="0" max-vertical-offset="807" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Authentication/Storage/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="40" selection-start="1552" selection-end="1552" vertical-scroll-proportion="0.511335" vertical-offset="1218" max-vertical-offset="3654" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/Container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="65" selection-start="524" selection-end="549" vertical-scroll-proportion="0.3866171" vertical-offset="0" max-vertical-offset="1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/AbstractManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="9" selection-start="609" selection-end="609" vertical-scroll-proportion="0.49118388" vertical-offset="0" max-vertical-offset="6747" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/AbstractContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="484" column="7" selection-start="13880" selection-end="13880" vertical-scroll-proportion="0.15743072" vertical-offset="11700" max-vertical-offset="15225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Session/SessionManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="7" selection-start="3438" selection-end="3438" vertical-scroll-proportion="0.54785895" vertical-offset="2758" max-vertical-offset="12927">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/src/Authentication/Controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="264" selection-end="349" vertical-scroll-proportion="0.34076828" vertical-offset="271" max-vertical-offset="1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/src/Authentication/Service/Authentication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="37" selection-start="714" selection-end="730" vertical-scroll-proportion="0.5088161" vertical-offset="298" max-vertical-offset="2067">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/src/Authentication/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="6" selection-start="251" selection-end="251" vertical-scroll-proportion="0.17348203" vertical-offset="168" max-vertical-offset="1148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="31" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.37546468" vertical-offset="761" max-vertical-offset="1568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Authentication/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="28" selection-start="864" selection-end="864" vertical-scroll-proportion="0.325887" vertical-offset="805" max-vertical-offset="2769" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/autoload_classmap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/SampleModule/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="39" selection-start="363" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="2340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/SampleModule/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="68" selection-start="911" selection-end="911" vertical-scroll-proportion="0.062015504" vertical-offset="656" max-vertical-offset="1430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/SampleModule/src/SampleModule/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="20" selection-start="2393" selection-end="2401" vertical-scroll-proportion="2.6032138" vertical-offset="468" max-vertical-offset="3042">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/application.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.044982698" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="36" selection-start="720" selection-end="834" vertical-scroll-proportion="0.5729927" vertical-offset="543" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/ZF2/library/Zend/Log/Writer/FirePhp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/src/Application/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="25" selection-start="2467" selection-end="2467" vertical-scroll-proportion="0.27688503" vertical-offset="1921" max-vertical-offset="2730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/autoload/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="18" selection-start="692" selection-end="692" vertical-scroll-proportion="0.34306568" vertical-offset="96" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/ApplicationTest/Controller/IndexControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="26" selection-start="233" selection-end="243" vertical-scroll-proportion="0.2689655" vertical-offset="0" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/ApplicationTest/Bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="790" selection-end="790" vertical-scroll-proportion="-2.4068966" vertical-offset="3186" max-vertical-offset="4524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/ApplicationTest/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="160" selection-end="175" vertical-scroll-proportion="0.2101293" vertical-offset="0" max-vertical-offset="928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Application/ApplicationTest/TestConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="56" selection-start="206" selection-end="211" vertical-scroll-proportion="0.22989808" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Contact/src/Contact/Model/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="31" selection-start="619" selection-end="630" vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="1740">
+          <folding>
+            <marker date="1416390708791" expanded="true" signature="-1:-1" placeholder="select * fro..contact..." />
+            <marker date="1416390708791" expanded="true" signature="-1:-1" placeholder="select * fro..concact..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Contact/src/Contact/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="217" selection-end="217" vertical-scroll-proportion="0.44827586" vertical-offset="0" max-vertical-offset="1911">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/Contact/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="9" selection-start="616" selection-end="616" vertical-scroll-proportion="-0.093587525" vertical-offset="729" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

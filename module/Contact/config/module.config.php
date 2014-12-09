@@ -1,0 +1,31 @@
+<?php
+return array(
+    "controllers"=>array(
+        "invokables"=>array(
+            'Contact\Controller\Index'=>"Contact\Controller\IndexController",
+        )  
+    ),
+    "router"=>array(
+        'routes'=>array(
+           'contact'=>array(
+               "type"=>'segment',
+               'options'=>array(
+                   'route'=>"/contact[/:action]",
+                   'constraints'=>array(
+                       'action'=>'[a-zA-Z0-9][a-zA-Z0-9_-]*',
+                   ),
+                   'defaults'=>array(
+                       'controller'=>'Contact\Controller\Index',
+                       'action'=>'index'
+                   )
+               )
+           )  
+        ),
+    ),
+    'view_manager'=>array(
+        'template_path_stack'=>array(
+            'contact'=>__DIR__."/../view",
+        )
+    ),
+    
+);

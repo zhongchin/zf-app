@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/SpeckPaypal/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/SpeckPaypal/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/SpeckPaypal/test" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZF2/library" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZFTool/view" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZendGData/library" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZendGData/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZendSearch/library" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ZendSearch/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/module/BjyCacheStorage/composer.phar" />
+          <root url="phar://$MODULE_DIR$/zftool.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/module/BjyCacheStorage/composer.phar" />
+          <root url="phar://$MODULE_DIR$/zftool.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/src" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/.git" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/tests" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/config" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/bin" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/docs" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/view" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/test" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/.git" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZF2/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/tests" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/.git" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/config" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/src" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/tests" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/src" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/.git" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/tests" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/config" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/bin" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/docs" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/view" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/test" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/.git" />
+          <root url="file://$MODULE_DIR$/vendor/ZendSearch/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZF2/library" />
+          <root url="file://$MODULE_DIR$/vendor/ZFTool/tests" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/.git" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/config" />
+          <root url="file://$MODULE_DIR$/vendor/SpeckPaypal/src" />
+          <root url="file://$MODULE_DIR$/vendor/ZendGData/tests" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Form/RegisterForm.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Model/StoreOrders.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Album/Module.php</file>
+            <file>file:/E:/zendframework/zf-app/public/addInitializer.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/user-manager/index.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Contact/Module.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/view/huser/user/register.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Contact/view/contact/index/index.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Model/ImageUploadTable.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Album/src/Album/Controller/TestController.php</file>
+            <file>file:/E:/zendframework/zf-app/public/setFactory.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/LoginController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/UploadManagerController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/src/Huser/Controller/UserController.php</file>
+            <file>file:/E:/zendframework/zf-app/public/index.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/StoreController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Event/Authentication.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/login/login.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/StoreAdminController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Album/src/Album/Controller/IndexController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Model/UserTable.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Model/User.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/config/acl.config.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/group-chat/index.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Filter/RegisterFilter.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/Plugin/UserAuthentication.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Application/view/application/index/index.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Contact/src/Contact/Controller/IndexController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/UserManagerController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/config/module.config.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/Plugin/AuthPlugin.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/layout/myaccount-layout.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/index/new-user.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Model/ImageUpload.php</file>
+            <file>file:/E:/zendframework/zf-app/module/HTML5/src/HTML5/Controller/IndexController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Acl/Acl.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/group-chat/message-list.phtml</file>
+            <file>file:/E:/zendframework/zf-app/init_autoloader.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Contact/src/Contact/Model/Contact.php</file>
+            <file>file:/E:/zendframework/zf-app/public/serviceManager.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/GroupChatController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/MediaManagerController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/src/Huser/Service/factory/UserModuleOptions.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/src/Huser/Options/UserModuleOptions.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Application/view/layout/layout.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/upload-manager/index.phtml</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/src/Users/Controller/IndexController.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Huser/Module.php</file>
+            <file>file:/E:/zendframework/zf-app/module/Users/view/users/index/index.phtml</file>
+        </group>
+    </open-files>
+</project-private>

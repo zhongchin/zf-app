@@ -1,0 +1,31 @@
+<?php
+return array(
+    'controllers'=>array(
+        'invokables'=>array(
+            'HTML5\Controller\Index'=>'HTML5\Controller\IndexController',
+        )
+    ),
+    'router'=>array(
+        'routes'=>array(
+            'html5'=>array(
+                'type'=>'Segment',
+                'options'=>array(
+                    'route'=>'/html[/:controller[/:action]]',
+                    'constraints'=>array(
+                        'action'=>'[a-zA-Z][a-zA-Z0-9_-]*',
+                        'id'=>'[a-zA-Z0-9_-]*',
+                    ),
+                   'defaults'=>array(
+                        'controller'=>'HTML5\Controller\Index',
+                        'action'=>'index',
+                    )
+                )
+            )
+        )
+    ),
+    'view_manager'=>array(
+        'template_path_stack'=>array(
+            'html'=>__DIR__.'/../view'
+        )
+    )
+);

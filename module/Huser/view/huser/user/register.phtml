@@ -1,0 +1,10 @@
+<?php
+ echo $this->cdn("google");
+  $form=$this->form;
+  $form->prepare();
+  $form->setAttribute("action","/huser/register.html");
+  $form->setAttribute('method','post');
+    echo $this->form()->openTag($form);
+    echo $this->formcollection($form);
+    echo $this->form()->closeTag();
+?>
